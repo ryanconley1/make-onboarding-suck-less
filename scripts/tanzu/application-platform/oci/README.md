@@ -1,6 +1,6 @@
 # Tanzu Application Platform Quickstart Installation Guide
 
-> Note that Tanzu Application Platform is in Beta.  These instructions are based upon the Beta 4 release builds.
+> Note Tanzu Application Platform is now GA, but these instructions are based upon the Beta 4 release builds.
 
 ![Tanzu Application Platform // Component Diagram // Deployment Footprint // K8s Runtime Support](../tap.png)
 
